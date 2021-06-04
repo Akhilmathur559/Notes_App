@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413897443924",
+    "project_id": "extended-ripple-311506",
+    "storage_bucket": "extended-ripple-311506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413897443924:android:bffdea3a3c909d8e7c7bc1",
+        "android_client_info": {
+          "package_name": "com.white.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413897443924-ksln1cd4a71erus594ah14opulfekj44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9wmWfza7y4O4QflkyR3BE2MjPb7s0W5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413897443924-ksln1cd4a71erus594ah14opulfekj44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
